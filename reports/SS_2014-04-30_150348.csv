@@ -1,0 +1,7 @@
+"Support Report for Md. Elias Miah"
+ProjectToolName, ModeName, MembersName, FacilityTypeName, FacilityName, RequestedBy, ReqSupportDate, SupportDate, CreatedDate, SupportDuration, TaskPerformes, Remarks
+"UIMS","Phone","Md. Elias Miah","Upazila FP Store","Nangalkot, Comilla","Mian Abdul Kader","2013-11-29 00:00:00","2013-11-29 00:00:00","2013-12-01 01:06:50","00:00:05","SQL Server 2000 setup",""
+"UIMS","TeamViewer","Md. Elias Miah","Upazila FP Store","Kanaighat, Sylhet","Syeed Mostafa Al-Amin","2013-11-24 00:00:00","2013-11-24 00:00:00","2013-12-01 01:04:37","00:00:30","SQL Server 2000 & UIMS setup",""
+"UIMS","TeamViewer","Md. Elias Miah","Upazila FP Store","Bagerhat Sadar, Bagerhat","Mohammad Hossain (MSH-TA)","2013-11-05 00:00:00","2013-11-05 00:00:00","2013-11-11 23:41:00","00:00:30","UIMS Items Lot Record Correction.",""
+"WIMS","Phone","Md. Elias Miah","Warehouse","Bogra RWH","Sahajamal Mollah (MSH-TA)","2013-11-05 00:00:00","2013-11-05 00:00:00","2013-11-11 23:37:43","00:00:05","WIMS Data Not Show in software.
+Need WIMS update exe paste on D:\WIMS Folder.",""

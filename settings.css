@@ -1,0 +1,172 @@
+/*----------------------------------------------------------------------------- 
+
+	-	BANNER ROTATOR -
+
+Screen Stylesheet 
+
+version:   	1.0 
+date:      	11/01/12 
+author:		themepunch
+email:     	info@themepunch.com 
+website:   	http://www.themepunch.com
+-----------------------------------------------------------------------------*/
+
+
+/*************************************/
+/*		THUMBNAIL OPTIONS			*/
+/*************************************/
+
+.banner-preloader{
+	background:url(assets/loader/loader.gif) no-repeat 50% 50%;
+	width:20px;
+	height:20px;
+	position:absolute;
+	left:50%;
+	top:50%;
+	z-index:9999;
+	background-color: #fff;
+	border-radius: 2px; 
+	-moz-border-radius: 2px; 
+	-webkit-border-radius: 2px; 
+	padding: 10px;
+	margin-left: -20px;
+	margin-top: -20px;
+}
+
+.thumbbuttons{		
+	position:absolute;
+	height:10px;	
+	z-index:50;	    
+}
+
+
+
+.thumbbuttons .minithumb{
+	background:url(assets/button/button.png) top;
+	width:12px;
+	height:12px;
+	float:left;
+	margin-right:8px;	
+	cursor:pointer;
+}
+
+.thumbbuttons .minithumb:hover, .thumbbuttons .selected{
+	background-position:bottom;
+}
+
+.thumbbuttons .thumbs{
+	float:left;
+}
+
+
+.grab-cursor {
+    cursor: url("assets/grab.png") 8 8, -moz-grab;
+}
+
+.grabbing-horizontal-cursor {
+    cursor: url("assets/grabbingh.png") 8 8, -moz-grabbing;
+}
+
+.grabbing-vertical-cursor {
+    cursor: url("assets/grabbingv.png") 8 8, -moz-grabbing;
+}
+
+
+/**********************************************************
+	-	CAPTION SETTINGS FOR THE PARADIGM SLIDER	-
+**********************************************************/	
+
+
+.creative_layer div{ position:absolute;}
+
+.caption_black{
+	font-family: 'Open Sans', sans-serif;
+	font-size:30px;
+	color:#fff; /*color:#fff;*/
+	background-color:#35718c;
+	padding:20px 0;
+	padding-left:10px;
+	position:absolute;
+	font-weight: 800;
+	line-height:1;
+}
+
+.caption_black_22{
+	font-family: 'Open Sans', sans-serif;
+	font-size:22px;
+	color:#fff;
+	background-color:#211e1c;
+	padding:20px;
+	position:absolute;
+	font-weight: 800;
+	line-height:1;
+}
+
+.caption_black_noframe{
+	font-family: 'Open Sans', sans-serif;
+	font-size:28px;
+	/*color:#18c4ec;	*/
+	color:#367591;
+	position:absolute;
+	font-weight: 800;
+	line-height:1;
+}
+
+.caption_simple{
+	font-family: 'Open Sans', sans-serif;
+	font-size:13px;
+	color:#211e1c;
+	position:absolute;
+	
+}
+
+.darkbutton{
+	font-family: 'Open Sans', sans-serif;
+	font-size:13px;
+	color:#fff;
+	position:absolute;
+	background-color:#211e1c;
+	padding:8px 20px 8px 20px;
+	position:absolute;
+	
+}
+
+.blackbox{
+	background-color:#211e1c;
+	width:192px;
+	height:20px;
+	position:absolute;
+}
+
+a:focus { 
+    outline: none; 
+}
+
+.minicap{
+	font-size:14px;
+	font-weight: normal;
+}
+
+.smallcap{
+	font-size:18px;
+	font-weight: normal;
+}
+
+.largecap{
+	font-size:32px;
+}
+
+.imagecap{
+	position:absolute;
+}
+
+.nobg{
+	background: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	text-shadow: #000 5px 5px 5px;
+}
+
+
+

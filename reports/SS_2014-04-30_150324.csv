@@ -1,0 +1,11 @@
+"Support Report for Md. Elias Miah"
+ProjectToolName, ModeName, MembersName, FacilityTypeName, FacilityName, RequestedBy, ReqSupportDate, SupportDate, CreatedDate, SupportDuration, TaskPerformes, Remarks
+"UIMS","TeamViewer","Md. Elias Miah","Upazila FP Store","Beani Bazar, Sylhet","Syeed Mostafa Al-Amin","2014-02-11 00:00:00","2014-02-11 00:00:00","2014-02-11 05:56:48","00:01:30","send UIMS V2.5 installer & setup UIMS 2.5",""
+"UIMS","TeamViewer","Md. Elias Miah","Upazila FP Store","Juri, Maulvibazar","Syeed Mostafa Al-Amin","2014-02-11 00:00:00","2014-02-11 00:00:00","2014-02-11 05:59:44","00:00:30","UIMS V2 database setup",""
+"UIMS","Phone","Md. Elias Miah","Upazila FP Store","Golapganj, Sylhet","Syeed Mostafa Al-Amin","2014-02-10 00:00:00","2014-02-10 00:00:00","2014-02-11 05:53:48","00:00:40","UIMS V-2.5 setup",""
+"UIMS","Phone","Md. Elias Miah","Upazila FP Store","Balaganj, Sylhet","Syeed Mostafa Al-Amin","2014-02-10 00:00:00","2014-02-10 00:00:00","2014-02-11 05:54:54","00:00:30","UIMS V2.5 Setup",""
+"UIMS","Phone","Md. Elias Miah","Upazila FP Store","Nandail, Mymensingh","Syeed Mostafa Al-Amin","2014-02-04 00:00:00","2014-02-04 00:00:00","2014-02-04 01:10:56","00:00:15","1. UIMS database Backup Restore",""
+"UIMS","TeamViewer","Md. Elias Miah","Upazila FP Store","Zakiganj, Sylhet","Syeed Mostafa Al-Amin","2014-02-02 00:00:00","2014-02-02 00:00:00","2014-02-02 23:54:54","00:00:35","1. SQL Server Setup
+2. UIMS database Setup
+3. UIMS software Setup",""
+"UIMS","Phone","Md. Elias Miah","Upazila FP Store","Sunamganj Sadar, Sunamganj","Syeed Mostafa Al-Amin","2014-02-01 00:00:00","2014-02-01 00:00:00","2014-02-02 23:56:10","00:00:15","1. SQL Server 2000 Setup",""

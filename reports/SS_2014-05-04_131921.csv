@@ -1,0 +1,4 @@
+"Support Report for Md. Elias Miah"
+ProjectToolName, ModeName, MembersName, FacilityTypeName, FacilityName, RequestedBy, ReqSupportDate, SupportDate, CreatedDate, SupportDuration, TaskPerformes, Remarks
+"UIMS","TeamViewer","Md. Elias Miah","Upazila FP Store","Barhatta, Netrakona","Sayed Mostafa Al_Amin (TA-MSH)","2014-01-23 00:00:00","2014-01-23 00:00:00","2014-01-23 06:54:50","00:00:30","7B upload problem",""
+"UIMS","Phone","Md. Elias Miah","Upazila FP Store","Jhikargachha, Jessore","Mohammad hossain (TA-MSH)","2014-01-22 00:00:00","2014-01-22 00:00:00","2014-01-23 06:43:34","00:00:05"," Database not create in Sql server 2000","Sql server 2000 did not setup in right way."

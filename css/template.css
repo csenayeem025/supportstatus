@@ -1,0 +1,225 @@
+body {
+	background: #ececec;
+}
+
+form.formular {
+	font-family: tahoma, verdana, "sans-serif";
+	font-size: 12px;
+	padding: 20px;
+	border: 1px solid #A5A8B8;
+	width: 300px;
+	margin: 0 auto;
+}
+.formular fieldset {
+	margin-top: 20px;
+	padding: 15px;
+	border: 1px solid #B5B8C8;
+}
+
+.formular legend {
+	font-size: 12px;
+	color: #15428B;
+	font-weight: 900;
+}
+
+.formular fieldset label {
+	float: none;
+	text-align: inherit;
+	display:block;
+	width: auto;
+}
+
+.formular label span {
+	color: #000;
+}
+
+.formular input,.formular select,.formular textarea {
+	display: block;  /* this breaks relative positioning */
+	margin-bottom: 5px;	
+}
+
+.left{
+	clear:both;
+	float:left !important;
+	width:450px !important;
+}
+
+.right{
+	float:right !important;
+	width:450px !important;
+}
+
+.label{
+	float:left;
+	width:170px;
+	text-align:right;
+	padding-top:5px;
+	padding-right:15px;
+}
+
+.label2{	
+	margin-left:77px;
+}
+.label3{	
+	margin-left:117px !important;
+	float:left;
+}
+
+textarea.label2{
+	width:360px !important;
+}
+
+textarea.label3{
+	width:320px !important;
+}
+
+.formular .text-input {
+	width: 250px;
+	color: #555;
+	padding: 4px;
+	border: 1px solid #B5B8C8;
+	font-size: 14px;
+	margin-top: 4px;
+	background: #FFF repeat-x;
+}
+
+.formular .text-input2 {
+	width: 260px;
+	color: #555;
+	padding: 4px;
+	border: 1px solid #B5B8C8;
+	font-size: 14px;
+	margin-top: 4px;
+	background: #FFF repeat-x;
+}
+
+.formular textarea {
+	width: 250px;
+	height: 170px;
+	color: #555;
+	padding: 4px;
+	border: 1px solid #B5B8C8;
+	font-size: 14px;
+	margin-top: 4px;
+	background: #FFF repeat-x;
+}
+
+.formular .infos {
+	background: #FFF;
+	color: #333;
+	font-size: 12px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+.formular span.checkbox, .formular .checkbox, .formular .radio {
+	display: inline;
+}
+
+.formular .submit {
+	
+	border: 1px solid #AAA;
+	padding: 4px;
+	margin-top: 20px;
+	float: right;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.formular hr {
+	clear: both;
+	visibility: hidden;
+}
+
+.formular .fc-error {
+	width: 350px;
+	color: #555;
+	padding: 4px;
+	border: 1px solid #B5B8C8;
+	font-size: 12px;
+	margin-bottom: 15px;
+	background: #FFEAEA;
+}
+img.pEdit, img.pDrop{
+	cursor:pointer;
+}
+
+.sl{
+	width:20px;
+}
+
+ul.detailsView label, ul.detailsView p{
+	float:left;
+}
+ul.detailsView li{
+	line-height:1.5;
+}
+ul.detailsView label{
+	width:130px;font-family:Calibri !important;	
+}
+ ul.detailsView p{
+ padding-left:20px;font-family:Calibri !important;
+ }
+ 
+ #ajax-loader{
+	display:none;
+	position:absolute;
+	left:48%;
+	padding-top:10px;
+ }
+  
+#left-desc{
+	width:270px;	
+ }
+  
+ #right-desc{
+	width:300px;
+	
+ }
+ #right-desc, #left-desc{	
+	overflow:auto;
+ }
+ 
+ #supportStatusGrid tr td,  .dataTables_scrollHead, .dataTables_info, .fg-toolbar, .fg-toolbar{
+	font-family:Calibri !important;
+ }
+ 
+#supportStatusGrid tbody tr.even:hover, #supportStatusGrid tbody tr.even td.highlighted {
+	background-color: #EEE;
+}
+
+#supportStatusGrid tbody tr.odd:hover, #supportStatusGrid tbody tr.odd td.highlighted {
+	background-color: #EEE;
+}
+
+#supportStatusGrid tr.even:hover {
+	background-color: #EEE;
+}
+
+#supportStatusGrid tr.even:hover td.sorting_1 {
+	background-color: #EEE;
+}
+
+#supportStatusGrid tr.even:hover td.sorting_2 {
+	background-color: #EEE;
+}
+
+#supportStatusGrid tr.even:hover td.sorting_3 {
+	background-color: #EEE;
+}
+
+#supportStatusGrid tr.odd:hover {
+	background-color: #EFE;
+}
+
+#supportStatusGrid tr.odd:hover td.sorting_1 {
+	background-color: #EEE;
+}
+
+#supportStatusGrid tr.odd:hover td.sorting_2 {
+	background-color: #EEE;
+}
+
+#supportStatusGrid tr.odd:hover td.sorting_3 {
+	background-color: #EEE;
+}

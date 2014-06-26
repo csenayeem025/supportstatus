@@ -1,0 +1,7 @@
+"Support Report for Md. Elias Miah"
+ProjectToolName, ModeName, MembersName, FacilityTypeName, FacilityName, RequestedBy, ReqSupportDate, SupportDate, CreatedDate, SupportDuration, TaskPerformes, Remarks
+"UIMS","TeamViewer","Md. Elias Miah","Upazila FP Store","Hizla, Barisal","Mohammad Hossain (T.A- MSH)","2013-12-05 00:00:00","2013-12-05 00:00:00","2013-12-05 03:58:32","00:00:40","Sql Server 2000 setup.
+Create Uims Database.
+Uims Software Setup","Sql Server 2000 setup,Create Uims Database and
+Uims Software Setup problem"
+"UIMS","Phone","Md. Elias Miah","Upazila FP Store","Bhairab, Kishorgonj","Ershad Ahmmed Nomani (FPO)","2013-12-03 00:00:00","2013-12-03 00:00:00","2013-12-05 03:54:19","00:00:20","Sql server 2000 Setup.","Sql server 2000 Setup, Data Base Create and Uims Backup Restore Problem."
